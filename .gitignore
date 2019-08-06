@@ -1,0 +1,7 @@
+# python files
+*.py[oc]
+__pycache__
+.pytest_cache
+
+# Selenium
+geckodriver.log
